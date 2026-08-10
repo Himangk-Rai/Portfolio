@@ -225,21 +225,21 @@
 
 
   .card-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  margin-top: 18px;
-  padding: 6px 12px;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: #111;
-  background-color: transparent;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  width: fit-content;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 18px;
+      padding: 6px 12px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: #111;
+      background-color: transparent;
+      border: 1px solid rgba(0, 0, 0, 0.15);
+      border-radius: 4px;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      width: fit-content;
 }
 
 .card-btn:hover {
