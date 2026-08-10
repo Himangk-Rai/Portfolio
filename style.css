@@ -224,7 +224,7 @@
   }
 
 
-  .card-btn {
+  .card .card-btn {
       display: inline-flex;
       align-items: center;
       gap: 6px;
@@ -242,7 +242,7 @@
       width: fit-content;
 }
 
-.card-btn:hover {
+.card .card-btn:hover {
   background-color: #111;
   color: #fff;
   border-color: #111;
