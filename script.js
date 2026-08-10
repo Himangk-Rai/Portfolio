@@ -6,5 +6,5 @@ const revealEls = document.querySelectorAll('.reveal');
         io.unobserve(e.target);
       }
     });
-  }, {threshold:0.15});
+  }, {threshold:0});
   revealEls.forEach(el => io.observe(el));
